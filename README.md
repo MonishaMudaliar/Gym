@@ -1,4 +1,4 @@
-# Gym 
- https://monishamudaliar.github.io/Gym/
+# Gym Website
+  https://monishamudaliar.github.io/Gym-Website/
  
  
